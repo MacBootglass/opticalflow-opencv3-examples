@@ -1,3 +1,6 @@
 [submodule "submodules/tracking"]
 	path = submodules/tracking
 	url = https://github.com/akshaychawla/Optical-Flow-Tracking----OpenCV
+[submodule "submodules/LucasKanade-HornSchunck"]
+	path = submodules/LucasKanade-HornSchunck
+	url = https://github.com/scienceopen/Optical-Flow-LucasKanade-HornSchunck.git
