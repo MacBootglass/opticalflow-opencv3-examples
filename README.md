@@ -8,6 +8,12 @@ $ cd submodules/tracking
 $ python tracking6.py
 ```
 
+* Horn Schunck:
+```bash
+$ cd submodules/LucasKanade-HornSchunck
+$ python HornSchunck.py data/box/box
+```
+
 * Farneback
 ```bash
 $ cd scripts
@@ -23,6 +29,7 @@ $ python lucas_kanade.py
 ## Sources
 * [Tracking video](https://github.com/akshaychawla/Optical-Flow-Tracking----OpenCV)
 * [Farneback et Lucas Kanade](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_video/py_lucas_kanade/py_lucas_kanade.html)
+* [Horn Schunk](https://github.com/scienceopen/Optical-Flow-LucasKanade-HornSchunck.git)
 
 
 ## Note
